@@ -27,9 +27,9 @@ Module,Path,baseline,node22,node20,node18,bun,deno,workerd,wranglerV3,wranglerUn
 *globals*,Boolean,supported,supported,supported,supported,supported
 *globals*,BroadcastChannel,supported,supported,unsupported,unsupported,unsupported
 *globals*,Buffer,supported,supported,unsupported,supported,unsupported
-*globals*,ByteLengthQueuingStrategy,supported,supported,supported,supported,unsupported
+*globals*,ByteLengthQueuingStrategy,supported,supported,supported,supported,supported
 *globals*,CompressionStream,supported,supported,supported,supported,unsupported
-*globals*,CountQueuingStrategy,supported,supported,supported,supported,unsupported
+*globals*,CountQueuingStrategy,supported,supported,supported,supported,supported
 *globals*,Crypto,supported,supported,supported,supported,unsupported
 *globals*,CryptoKey,supported,supported,supported,supported,unsupported
 *globals*,CustomEvent,supported,supported,supported,supported,unsupported
@@ -133,7 +133,7 @@ Module,Path,baseline,node22,node20,node18,bun,deno,workerd,wranglerV3,wranglerUn
 *globals*,Proxy,supported,supported,supported,supported,supported
 *globals*,RangeError,supported,supported,supported,supported,supported
 *globals*,ReadableByteStreamController,supported,supported,supported,supported,unsupported
-*globals*,ReadableStream,supported,supported,supported,supported,unsupported
+*globals*,ReadableStream,supported,supported,supported,supported,supported
 *globals*,ReadableStreamBYOBReader,supported,supported,supported,supported,unsupported
 *globals*,ReadableStreamBYOBRequest,supported,supported,supported,supported,unsupported
 *globals*,ReadableStreamDefaultController,supported,supported,supported,supported,unsupported
@@ -1181,9 +1181,9 @@ Module,Path,baseline,node22,node20,node18,bun,deno,workerd,wranglerV3,wranglerUn
 *globals*,globalThis.Boolean,supported,supported,supported,supported,supported
 *globals*,globalThis.BroadcastChannel,supported,supported,unsupported,unsupported,unsupported
 *globals*,globalThis.Buffer,supported,supported,unsupported,supported,unsupported
-*globals*,globalThis.ByteLengthQueuingStrategy,supported,supported,supported,supported,unsupported
+*globals*,globalThis.ByteLengthQueuingStrategy,supported,supported,supported,supported,supported
 *globals*,globalThis.CompressionStream,supported,supported,supported,supported,unsupported
-*globals*,globalThis.CountQueuingStrategy,supported,supported,supported,supported,unsupported
+*globals*,globalThis.CountQueuingStrategy,supported,supported,supported,supported,supported
 *globals*,globalThis.Crypto,supported,supported,supported,supported,unsupported
 *globals*,globalThis.CryptoKey,supported,supported,supported,supported,unsupported
 *globals*,globalThis.CustomEvent,supported,supported,supported,supported,unsupported
@@ -1287,7 +1287,7 @@ Module,Path,baseline,node22,node20,node18,bun,deno,workerd,wranglerV3,wranglerUn
 *globals*,globalThis.Proxy,supported,supported,supported,supported,supported
 *globals*,globalThis.RangeError,supported,supported,supported,supported,supported
 *globals*,globalThis.ReadableByteStreamController,supported,supported,supported,supported,unsupported
-*globals*,globalThis.ReadableStream,supported,supported,supported,supported,unsupported
+*globals*,globalThis.ReadableStream,supported,supported,supported,supported,supported
 *globals*,globalThis.ReadableStreamBYOBReader,supported,supported,supported,supported,unsupported
 *globals*,globalThis.ReadableStreamBYOBRequest,supported,supported,supported,supported,unsupported
 *globals*,globalThis.ReadableStreamDefaultController,supported,supported,supported,supported,unsupported
@@ -1546,9 +1546,9 @@ Module,Path,baseline,node22,node20,node18,bun,deno,workerd,wranglerV3,wranglerUn
 *globals*,globalThis.globalThis.Boolean,supported,supported,supported,supported,supported
 *globals*,globalThis.globalThis.BroadcastChannel,supported,supported,unsupported,unsupported,unsupported
 *globals*,globalThis.globalThis.Buffer,supported,supported,unsupported,supported,unsupported
-*globals*,globalThis.globalThis.ByteLengthQueuingStrategy,supported,supported,supported,supported,unsupported
+*globals*,globalThis.globalThis.ByteLengthQueuingStrategy,supported,supported,supported,supported,supported
 *globals*,globalThis.globalThis.CompressionStream,supported,supported,supported,supported,unsupported
-*globals*,globalThis.globalThis.CountQueuingStrategy,supported,supported,supported,supported,unsupported
+*globals*,globalThis.globalThis.CountQueuingStrategy,supported,supported,supported,supported,supported
 *globals*,globalThis.globalThis.Crypto,supported,supported,supported,supported,unsupported
 *globals*,globalThis.globalThis.CryptoKey,supported,supported,supported,supported,unsupported
 *globals*,globalThis.globalThis.CustomEvent,supported,supported,supported,supported,unsupported
@@ -1594,7 +1594,7 @@ Module,Path,baseline,node22,node20,node18,bun,deno,workerd,wranglerV3,wranglerUn
 *globals*,globalThis.globalThis.Proxy,supported,supported,supported,supported,supported
 *globals*,globalThis.globalThis.RangeError,supported,supported,supported,supported,supported
 *globals*,globalThis.globalThis.ReadableByteStreamController,supported,supported,supported,supported,unsupported
-*globals*,globalThis.globalThis.ReadableStream,supported,supported,supported,supported,unsupported
+*globals*,globalThis.globalThis.ReadableStream,supported,supported,supported,supported,supported
 *globals*,globalThis.globalThis.ReadableStreamBYOBReader,supported,supported,supported,supported,unsupported
 *globals*,globalThis.globalThis.ReadableStreamBYOBRequest,supported,supported,supported,supported,unsupported
 *globals*,globalThis.globalThis.ReadableStreamDefaultController,supported,supported,supported,supported,unsupported
